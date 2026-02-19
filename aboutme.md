@@ -4,5 +4,4 @@ Trabajo desde hace muchos años en Decathlon, en la sección de deportes de mont
 Me gusta pasar tiempo con mi familia y hacer planes divertidos con mi hija y mi marido.
 Soy de un pueblo de la pronvicia de Alicante, Cocentina, mi pueblo es muy conocido por su famosa Fira de Tots Sants.
 
-![Mi avatar](img/myface.JPG)
-"Mi avatar")
+![Mi avatar](img/myface.JPG "Mi avatar")
